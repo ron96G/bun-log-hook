@@ -7,7 +7,7 @@ Log Hook for [bun](https://github.com/uptrace/bun).
 $ go test -run=. -bench=. -benchtime=5s -count 5 -benchmem
 goos: windows
 goarch: amd64
-pkg: github.com/ron96G/go-db/pkg/repositories/hooks
+pkg: github.com/ron96G/bun-log-hook
 cpu: AMD Ryzen 9 5900X 12-Core Processor
 ```
 Benchmark Name|Iterations|ns/op|B/op|allocs/op
